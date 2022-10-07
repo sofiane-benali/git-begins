@@ -1,0 +1,4 @@
+git clone (lien https ou ssh)
+git add .
+git commit -m "nom du commit"
+git push -u origin main
